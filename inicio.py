@@ -7,4 +7,4 @@ print("El resultado es", resultado)
 print("Ingrese más código")
 
 resultado = resultado + 10
-print(resultado)
+print("El nuevo resultado es",resultado)
